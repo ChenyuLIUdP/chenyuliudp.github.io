@@ -18,11 +18,11 @@ The materials include:
 - GAMM summaries, diagnostic checks, and model comparisons.
 - Core R scripts for GAMMs, functional principal component analysis (fPCA), and function-on-function regression (FoF).
 
-[View the repository](https://github.com/chenyuliudp/Diphthong-Dynamics-under-Lexical-Tone)
+[View the repository](https://chenyuliudp.github.io/Diphthong-Dynamics-under-Lexical-Tone)
 
 ### Scripts for Master thesis
 
-[View the repository](https://github.com/chenyuliudp/scripts)
+[View the repository](https://chenyuliudp.github.io/scripts)
 
 ## Links
 
