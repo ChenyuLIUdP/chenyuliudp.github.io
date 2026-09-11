@@ -22,7 +22,7 @@ The materials include:
 
 ### Scripts for Master thesis
 
-[View the repository](https://chenyuliudp.github.io/scripts)
+[View the repository](https://chenyuliudp.github.io/Scripts)
 
 ## Links
 
